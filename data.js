@@ -589,7 +589,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "SVOYA",
+  "name": "MIRA ESTATE 3D TOUR",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
